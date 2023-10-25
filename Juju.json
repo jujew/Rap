@@ -1,0 +1,32 @@
+{
+    "song1" : {
+       "song" : "Parehas Tayo",
+       "artist" : "Nateman",
+       "genre" : "RAP",
+       "link": "https://youtu.be/RJQGrcHDpCk?si=VjBkGyOhjkjv3Ypj"
+    },
+    "song2" : {
+        "song" : "Japanese Denim",
+        "artist" : "Daniel Caesar",
+        "genre" : "R&B",
+        "link": "https://youtu.be/6OkneaH-eTA?si=cF4lLV1YIhxJQPDw"
+     },
+     "song3" : {
+        "song" : "Loyal",
+        "artist" : "Chris Brown",
+        "genre" : "R&B",
+        "link": "https://youtu.be/JXRN_LkCa_o?si=ZB5mLZXVyE8jVj5C"
+     },
+     "song4" : {
+        "song" : "Love Dont Change",
+        "artist" : "Jeremih",
+        "genre" : "R&B",
+        "link": "https://www.youtube.com/watch?v=qFLhGq0060w&ab_channel=TheWeekndVEVO"
+     },
+     "song5" : {
+        "song" : "Paboritong pagkakamali",
+        "artist" : "Nateman",
+        "genre" : "RAP",
+        "link": "https://youtu.be/VZ6g4ESI3Ik?si=ptwzWV2iatVWAy0p"
+     }
+ }
